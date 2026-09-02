@@ -1,0 +1,211 @@
+{
+  "slides": [
+    {
+      "id": "s1",
+      "type": "Hero",
+      "primaryTitle": "DEMO 01 — CREATIVE MARKETING",
+      "secondaryTitle": "Nguyễn Minh Anh",
+      "bodyContent": "Marketing Student | Content Creator | Creative Communication",
+      "highlights": [],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "hero_01.jpg",
+          "type": "Visual",
+          "ratio": "16:9"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "SplitDashboard",
+      "primaryTitle": "INTRO",
+      "secondaryTitle": "Bridging Strategy & Human Emotion",
+      "bodyContent": "I’m a Marketing student passionate about turning consumer insights into creative ideas that people can connect with. I enjoy working across content, social media and campaign planning, with hands-on experience in developing communication ideas and creating engaging content.\n\nI’m particularly interested in Brand Marketing, Content Marketing and Creative Communication, where strategy and creativity come together to solve real consumer problems.",
+      "highlights": [],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "intro_01.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "BentoGrid",
+      "primaryTitle": "EDUCATION",
+      "secondaryTitle": "University of Economics Ho Chi Minh City — UEH",
+      "bodyContent": "Bachelor of Marketing | 2023 – 2027 | GPA: 3.6/4.0",
+      "highlights": [
+        "Relevant coursework: Consumer Behavior, Marketing Management, Integrated Marketing Communications, Brand Management, Digital Marketing",
+        "Academic interests: Consumer Insight, Brand Strategy, Social Media Marketing",
+        "Participated in marketing-related academic projects and student activities"
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "edu_01.jpg",
+          "type": "Visual",
+          "ratio": "1:1"
+        },
+        {
+          "id": "img_1",
+          "name": "edu_02.png",
+          "type": "Visual",
+          "ratio": "16:9"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "SplitDashboardZigZag",
+      "primaryTitle": "WORK EXPERIENCE",
+      "secondaryTitle": "Marketing Intern — [Company Name] (06/2026 – 08/2026)",
+      "bodyContent": "Supported the development of social media content across Facebook, TikTok and Instagram.",
+      "highlights": [
+        "Conducted basic market and consumer research to identify relevant trends, audience interests and content opportunities.",
+        "Developed content ideas and communication angles based on campaign objectives and target audience insights.",
+        "Wrote and edited 30+ pieces of social content, including short-form video scripts, captions and campaign posts.",
+        "Collaborated with designers and other team members to ensure consistency between content ideas and visual execution.",
+        "Monitored content performance and summarized key learnings for future content optimization.",
+        "Assisted in preparing campaign proposals, content calendars and weekly communication reports."
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "work_01.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "BentoGrid",
+      "primaryTitle": "WORK EXPERIENCE",
+      "secondaryTitle": "Communications Executive — [University Club Name] (09/2024 – 05/2026)",
+      "bodyContent": "Planned and executed communication activities for university events and student campaigns.",
+      "highlights": [
+        "Created content for Facebook and TikTok, contributing to an average of X+ posts/month.",
+        "Developed campaign concepts, key messages and content directions for events targeting university students.",
+        "Coordinated with Design, Event and Partnership teams to execute communication activities.",
+        "Supported event communication campaigns that generated X,XXX+ total reach.",
+        "Contributed to the growth of the club’s social media community from X,XXX to X,XXX followers."
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "work_02.jpg",
+          "type": "Visual"
+        },
+        {
+          "id": "img_1",
+          "name": "work_03.jpg",
+          "type": "Visual"
+        },
+        {
+          "id": "img_2",
+          "name": "work_04.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "Hero",
+      "primaryTitle": "PROJECT",
+      "secondaryTitle": "Personal Marketing Campaign — “Re:Connect”",
+      "bodyContent": "A self-initiated campaign project exploring how brands can build meaningful connections with Gen Z through social media.",
+      "highlights": [
+        "Challenge: Explore how a lifestyle brand can increase relevance among Gen Z consumers in an increasingly crowded social media environment."
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "project_01.jpg",
+          "type": "Visual",
+          "ratio": "16:9"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "type": "ProjectHorizontal",
+      "primaryTitle": "PROJECT",
+      "secondaryTitle": "My Approach & Project Output — “Re:Connect”",
+      "bodyContent": "",
+      "highlights": [
+        "My Approach: Conducted desk research and social listening to understand Gen Z’s interests and behaviors. Identified key consumer tensions and developed a communication insight. Built a campaign concept based on the identified insight. Developed the Big Idea, Key Message and Communication Direction. Created sample social media content across different stages of the campaign.",
+        "Project Output: Consumer Insight, Creative Concept, Key Message, Content Pillars, Social Media Content Ideas"
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "project_01.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "type": "BentoGrid",
+      "primaryTitle": "SKILLS",
+      "secondaryTitle": "Core Competencies & Digital Arsenal",
+      "bodyContent": "",
+      "highlights": [
+        "Marketing: Consumer Research, Consumer Insight, Brand Strategy, Campaign Planning, Social Media Strategy",
+        "Creative: Copywriting, Content Ideation, Storytelling, Creative Concept Development",
+        "Tools: Canva, Figma, Google Slides, Google Sheets, CapCut"
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "skills_01.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "type": "Accordion",
+      "primaryTitle": "ABOUT ME",
+      "secondaryTitle": "Inside the Strategist’s Mind",
+      "bodyContent": "",
+      "highlights": [
+        "What kind of work excites you the most? I enjoy projects where I can start with a consumer problem, find an interesting insight and turn it into an idea that people can actually relate to.",
+        "What is one thing you’re constantly trying to improve? I’m constantly working on becoming better at connecting creativity with strategy. I don’t want to create something that simply looks good — I want to understand why the idea should work.",
+        "What is your working style? I like having a clear direction at the beginning, but I also enjoy exploring different ideas before deciding on the strongest solution.",
+        "What inspires your ideas? Most of my ideas come from observing everyday consumer behavior, social media conversations, trends and small cultural moments that people usually overlook.",
+        "Where do you see yourself in the next few years? I hope to develop into a brand or creative strategist who can combine consumer understanding, strategic thinking and creativity to build meaningful brands."
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "about_01.jpg",
+          "type": "Visual"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "Hero",
+      "primaryTitle": "CONTACT",
+      "secondaryTitle": "Let’s Build Meaningful Connections Together",
+      "bodyContent": "",
+      "highlights": [
+        "Phone: +84 9XX XXX XXX",
+        "Email: minh.anh.marketing@email.com",
+        "Facebook: facebook.com/minhanh.marketing",
+        "LinkedIn: linkedin.com/in/minhanh-marketing"
+      ],
+      "images": [
+        {
+          "id": "img_0",
+          "name": "contact_01.jpg",
+          "type": "Visual",
+          "ratio": "16:9"
+        }
+      ]
+    }
+  ]
+}
